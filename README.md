@@ -24,7 +24,9 @@ Jenkins is an open source continuous integration/continuous delivery and deploym
 <p><img src="https://github.com/MatveyGuralskiy/Jenkins/blob/main/Auto-Trigger/Second-AutoTrigger.png?raw=true" style="height:350px; width:700px" /></p>
 
 ## 📋 Contributing
-Feel free to contribute to this project by opening issues or pull requests. Your feedback and contributions are highly appreciated!
+Feel free to contribute to this project by opening issues or pull requests. 
+
+Your feedback and contributions are highly appreciated!
 ## 📢 Additional Information
 I hope you liked my repository, don’t forget to rate it and if you notice a code malfunction or any other errors.
 Don’t hesitate to correct them and be able to improve your project for others
