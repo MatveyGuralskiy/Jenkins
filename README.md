@@ -6,6 +6,8 @@ Jenkins is an open source continuous integration/continuous delivery and deploym
 
  |-- /Auto-Trigger
 
+ |-- /Deploy-AWS-Elastic-Beanstalk
+
  |-- /FirstJob
 
  |-- /GitHubJob
