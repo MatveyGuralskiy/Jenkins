@@ -23,6 +23,8 @@ Jenkins is an open source continuous integration/continuous delivery and deploym
  |-- /Other_Screens
 
  |-- /Parameters
+
+ |-- /Pipelines
        
  |-- README.md
 
