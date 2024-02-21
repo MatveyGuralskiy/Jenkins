@@ -14,6 +14,8 @@ Jenkins is an open source continuous integration/continuous delivery and deploym
 
  |-- /GitHubJob
 
+ |-- /Groovy_Scripts
+
  |-- /Index_example
        
  |-- /Job_Powershell
