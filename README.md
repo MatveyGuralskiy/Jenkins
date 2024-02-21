@@ -19,8 +19,12 @@ Jenkins is an open source continuous integration/continuous delivery and deploym
  |-- README.md
 
 ### 📝 Examples
+<p><img src="https://github.com/MatveyGuralskiy/Jenkins/blob/main/Deploy-AWS-Elastic-Beanstalk/List-Job.png?raw=true" style="height:350px; width:700px" /></p>
+
 <p><img src="https://github.com/MatveyGuralskiy/Jenkins/blob/main/Other_Screens/Script_Index.png?raw=true" style="height:350px; width:700px" /></p>
+
 <p><img src="https://github.com/MatveyGuralskiy/Jenkins/blob/main/Other_Screens/Job-list.png?raw=true" style="height:350px; width:700px" /></p>
+
 <p><img src="https://github.com/MatveyGuralskiy/Jenkins/blob/main/Auto-Trigger/Second-AutoTrigger.png?raw=true" style="height:350px; width:700px" /></p>
 
 ## 📋 Contributing
