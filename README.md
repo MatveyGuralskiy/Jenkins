@@ -5,29 +5,19 @@ Optimize your development with Jenkins Automation Hub – your go-to for CI/CD. 
 Jenkins is an open source continuous integration/continuous delivery and deployment (CI/CD) automation software DevOps tool written in the Java programming language
 ### /Repository
 
- |-- /AWS_BeanStalk-Php-Sample
+ |--/AWS_BeanStalk-Php-Sample
 
- |-- /Auto-Trigger
+ |--/Groovy_Scripts
 
- |-- /Deploy-AWS-Elastic-Beanstalk
+ |--/Index_example
 
- |-- /FirstJob
+ |--/Jobs
 
- |-- /GitHubJob
+ |--/Other_Screens
 
- |-- /Groovy_Scripts
+ |--/Pipelines
 
- |-- /Index_example
-       
- |-- /Job_Powershell
-       
- |-- /Other_Screens
-
- |-- /Parameters
-
- |-- /Pipelines
-       
- |-- README.md
+ |--README.md
 
 ### 📝 Examples
 <p><img src="https://github.com/MatveyGuralskiy/Jenkins/blob/main/Deploy-AWS-Elastic-Beanstalk/List-Job.png?raw=true" style="height:350px; width:700px" /></p>
